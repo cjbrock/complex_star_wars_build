@@ -1,11 +1,12 @@
 # TODO
-
+User experience:
 1. List the star wars categories that a user can choose
 2. User chooses category
 3. List the top 10 objects from that category
 4. User chooses object
-5. Display more details about the object 
+5. Display more details about the object
 
+Video for beginning of the build: https://youtu.be/Qj__OMxtSlo
 
 # GoodFullStarWars
 
