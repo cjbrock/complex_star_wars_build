@@ -1,0 +1,2 @@
+class GoodFullStarWars::Information
+end

@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/good_full_star_wars'
+
+GoodFullStarWars::CLI.new.start
